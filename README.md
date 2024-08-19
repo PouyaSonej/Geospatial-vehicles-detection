@@ -7,9 +7,7 @@ or directly download:
 [link](https://www.kaggle.com/datasets/kevin33824/nwpu-vhr-10/data#:~:text=file_download-,Download,-(190%20MB )
 
 
-![Description](Data/NWPU VHR-10_1.png)
-
-![Project Screenshot](https://github.com/PouyaSonej/Geospatial-vehicles-detection/tree/main/Data/NWPU VHR-10_1.png)
+![Data/NWPU VHR-10_1.png](https://github.com/PouyaSonej/Geospatial-vehicles-detection/blob/d5d9b857468c0b5b14bfb52e0a23c1e5659692c6/Data/NWPU%20VHR-10_1.png)
 
 
-![Project Logo](Data/NWPU VHR-10_2.png)
+![Data/NWPU VHR-10_1.png](https://github.com/PouyaSonej/Geospatial-vehicles-detection/blob/d5d9b857468c0b5b14bfb52e0a23c1e5659692c6/Data/NWPU%20VHR-10_2.png)
